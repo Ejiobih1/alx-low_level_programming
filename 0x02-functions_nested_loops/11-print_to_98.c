@@ -1,4 +1,5 @@
-#include <studio.h>
+#include<stdio.h>
+#include "main.h"
 
 /**
  * print_to_98 - Prints numbers from n to 98.
