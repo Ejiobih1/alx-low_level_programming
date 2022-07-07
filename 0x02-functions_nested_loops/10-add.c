@@ -1,5 +1,4 @@
-#include "main.h"
-#include <studio.h>
+#include "main"
 
 /**
  * add - Sums two integers and
