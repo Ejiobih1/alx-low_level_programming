@@ -2,7 +2,7 @@
 #include <stdio.h>
 /**
  * print_array - print n elements of an array of intergers.
- * @a: pointer to array.
+ * @a: pointer to array
  * @n: number of array elements.
  *
  * Return: void.
