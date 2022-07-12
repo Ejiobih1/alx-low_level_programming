@@ -1,7 +1,7 @@
 #include "main.h"
 
 /**
- * __atoi - convert to a int
+ * _atoi - convert to a int
  * @s:string
  * Return:int
  */
@@ -9,6 +9,7 @@
 int _atoi(char *s)
 {
 	int i, j, n, x;
+
 	i = n = 0;
 	x = 1;
 	while ((s[i] < '0' || s[i] > '9') && (s[i] != '\0'))
