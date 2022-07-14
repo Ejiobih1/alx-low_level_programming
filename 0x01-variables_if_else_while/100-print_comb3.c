@@ -32,7 +32,7 @@ int main(void)
 		}
 		else
 		{
-			j++;
+			i++;
 			j = i + 1;
 		}
 	}
